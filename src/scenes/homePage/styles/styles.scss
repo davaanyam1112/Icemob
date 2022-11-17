@@ -1,0 +1,122 @@
+$whiteColor : #ffff;
+
+.header{
+  overflow: hidden;
+  padding: 0  2em 0 2em;
+  background-color: #000000;
+  text-align: center;
+  box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+  0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+  ul{
+    list-style-type: none;
+    li{
+      text-decoration: none;
+      padding-right: 3em;
+      color: $whiteColor;
+      cursor: pointer;
+    }
+
+  }
+  .header-logo{
+    float: left;
+  }
+  .navbar-right {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding-top: 1.4em;
+    font-size: 15px;
+ 
+  }
+}
+.ant-menu-item {
+    font-size: 15px !important;
+     position: relative !important;
+     margin: 0 !important;
+      }
+.nav-menu{
+  display: flex;
+  color: $whiteColor;
+}
+.search{
+  border: 1px solid #000;
+  border-radius: 0.6em;
+ 
+}
+.img{
+    width: 100%;
+    height: 240px;
+    border-top-right-radius: 1.5em;
+    border-top-left-radius: 1.5em;
+}
+
+
+
+.Card{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    grid-gap: 3em;
+    margin: 3em 6em 3em 6em;
+    margin-left: 8em;
+    margin-right: 8em;
+    .card-details{
+      width: 300;
+      border-radius: 1.5em;
+      cursor: pointer;
+      transition: transform 0.25s ease-out;
+      background-color: $whiteColor;
+      box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  }
+  .card-details:hover {
+    transform: scale(1.04);
+  }
+}
+.latest-card{
+  .title{
+    border-left: 3px solid red;
+    margin: 2em 0 0 6em ;
+    padding-left: 1em;
+   }
+}
+.homePage{
+  .youtube-video{
+    overflow: hidden;
+
+    margin: 0  10em 3em 10em;
+    border-radius: 2em;
+    transition: transform 0.25s ease-out;
+  }
+  .youtube-video:hover{
+    transform:scale(1.03);
+  }
+}
+  
+ .footer{
+  .footer-top{
+    display: flex;
+    justify-content: space-between;
+    padding: 3em 8em 3em 8em;
+    width: 100%;
+    height: auto;
+    background-color: #101010;
+    color: $whiteColor;
+    border-bottom: 0.5px solid gray;
+    
+  }
+  .footer-bottom{
+    padding: 0.5em 8em 0.5em 8em;
+    background-color: #101010;
+    color: $whiteColor;
+  }
+  .copyright{
+    text-align: end;
+}
+ }
+  
+
+.product-tab{
+  padding: 0 4em 0 4em;
+  border: 1px solid gray;
+  
+  border-radius: 10px;
+}
