@@ -1,0 +1,60 @@
+ [
+    {
+        "id": 1 , 
+        "img": "./assets/images/image20.jpg",
+        "price" :"120,000₮",
+        "title":"“THE GODFATHER” 1LP",
+        "description" : "SASH | “20Z0”  Рэппэр SASH -ийн “20Z0” 9 дуунаас бүрдсэн 10 инч пянз худалдаанд гарлаа.  A SIDE : INTRO  NERGUI DUU  MUNGU NO LOVE B SIDE : RARI  FRIDAY II 6 OUTRO  BONUS TRACK :  ERH DURAARAA GALZUU"
+       
+    },
+    {
+        "id": 2 , 
+        "img": "./assets/images/image19.jpg",
+        "price" :"160,000₮",
+        "title":"IRISH MAN 2LP",
+        "description" : "SASH | “20Z0”  Рэппэр SASH -ийн “20Z0” 9 дуунаас бүрдсэн 10 инч пянз худалдаанд гарлаа.  A SIDE : INTRO  NERGUI DUU  MUNGU NO LOVE B SIDE : RARI  FRIDAY II 6 OUTRO  BONUS TRACK :  ERH DURAARAA GALZUU"
+    },
+    {
+        "id": 3 , 
+        "img": "./assets/images/image1.png",
+        "price" :"110,000₮",
+        "title":"SASH | “20Z0” 1LP",
+        "description" : "SASH | “20Z0”  Рэппэр SASH -ийн “20Z0” 9 дуунаас бүрдсэн 10 инч пянз худалдаанд гарлаа.  A SIDE : INTRO  NERGUI DUU  MUNGU NO LOVE B SIDE : RARI  FRIDAY II 6 OUTRO  BONUS TRACK :  ERH DURAARAA GALZUU"
+    },
+    {
+        "id": 4 , 
+        "img": "./assets/images/image3.png",
+        "price" :"200,000₮",
+        "title":"KA “CRIMES N POETRY",
+        "description" : "SASH | “20Z0”  Рэппэр SASH -ийн “20Z0” 9 дуунаас бүрдсэн 10 инч пянз худалдаанд гарлаа.  A SIDE : INTRO  NERGUI DUU  MUNGU NO LOVE B SIDE : RARI  FRIDAY II 6 OUTRO  BONUS TRACK :  ERH DURAARAA GALZUU"
+    },
+    {
+        "id": 5 , 
+        "img": "./assets/images/image18.jpg",
+        "price" :"200,000₮",
+        "title":"“ТООS II ZOOS” 1LP",
+        "description" : "SASH | “20Z0”  Рэппэр SASH -ийн “20Z0” 9 дуунаас бүрдсэн 10 инч пянз худалдаанд гарлаа.  A SIDE : INTRO  NERGUI DUU  MUNGU NO LOVE B SIDE : RARI  FRIDAY II 6 OUTRO  BONUS TRACK :  ERH DURAARAA GALZUU"
+       
+    },
+    {
+        "id": 6 , 
+        "img": "./assets/images/image4.jpg",
+        "price" :"150,000₮",
+        "title":"МӨНХ ТУНХ",
+        "description" : "SASH | “20Z0”  Рэппэр SASH -ийн “20Z0” 9 дуунаас бүрдсэн 10 инч пянз худалдаанд гарлаа.  A SIDE : INTRO  NERGUI DUU  MUNGU NO LOVE B SIDE : RARI  FRIDAY II 6 OUTRO  BONUS TRACK :  ERH DURAARAA GALZUU"
+    },
+    {
+        "id": 7 , 
+        "img": "./assets/images/image21.jpg",
+        "price" :"1100,000₮",
+        "title":"Пянз тоглуулагч",
+        "description" : ""
+    },
+    {
+        "id": 8 , 
+        "img": "./assets/images/image22.jpg",
+        "price" :"120,000₮",
+        "title":"Пянз тоглуулагч",
+        "description" : "SASH | “20Z0”  Рэппэр SASH -ийн “20Z0” 9 дуунаас бүрдсэн 10 инч пянз худалдаанд гарлаа.  A SIDE : INTRO  NERGUI DUU  MUNGU NO LOVE B SIDE : RARI  FRIDAY II 6 OUTRO  BONUS TRACK :  ERH DURAARAA GALZUU"
+    }
+]

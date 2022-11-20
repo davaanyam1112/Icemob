@@ -49,9 +49,6 @@ $whiteColor : #ffff;
     border-top-right-radius: 1.5em;
     border-top-left-radius: 1.5em;
 }
-
-
-
 .Card{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr ;
@@ -71,7 +68,7 @@ $whiteColor : #ffff;
     transform: scale(1.04);
   }
 }
-.latest-card{
+.card{
   .title{
     border-left: 3px solid red;
     margin: 2em 0 0 6em ;
